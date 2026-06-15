@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Added
+
+- Added a draft `linux_computer_use` tool that bridges GJC to a local Linux Computer Use HTTP target for Xvfb/noVNC desktop observe/action loops.
+
 ## [0.5.2] - 2026-06-15
 
 ### Fixed
